@@ -1,8 +1,8 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: 'https://img.notionusercontent.com/ext/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F2dfbad46-1154-4a4c-8053-e16c8bd33a3a%2Fmy-notion-face-transparent.png/size/w=120?exp=1761607528&sig=_Hz8j9qfEGcunF6iff1zSD3A9HY_kc8fR--sJ4hAkRY&userId=b37249b4-5dac-4b50-94e7-9882d0b64761',
-      light: 'https://img.notionusercontent.com/ext/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F2dfbad46-1154-4a4c-8053-e16c8bd33a3a%2Fmy-notion-face-transparent.png/size/w=120?exp=1761607528&sig=_Hz8j9qfEGcunF6iff1zSD3A9HY_kc8fR--sJ4hAkRY&userId=b37249b4-5dac-4b50-94e7-9882d0b64761',
+      dark: '/hero/avatar.png',
+      light: '/hero/avatar.png',
       alt: 'My profile picture'
     },
     meetingLink: 'https://cal.com/',

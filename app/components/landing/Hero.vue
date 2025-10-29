@@ -111,7 +111,7 @@ defineProps<{
             variant="ghost"
             class="gap-2"
             :to="mailtoLink"
-            :label="global.available ? 'Available for new projects' : 'Not available at the moment'"
+            :label="global.available ? 'Disponible para nuevos proyectos' : 'No disponible por el momento'"
           >
             <template #leading>
               <span class="relative flex size-2">
