@@ -1,7 +1,7 @@
 seo:
   title: "Diego Salinas - Fullstack Developer"
   description: "Bienvenido a mi portafolio!"
-title: "Hola soy Diego Salinas, desarrollador frontend y backend."
+title: "Diego Salinas, desarrollador frontend y backend."
 description: "Me gusta construir experiencias digitales intuitivas y visualmente atractivas."
 hero:
   links:
@@ -9,19 +9,20 @@ hero:
       to: https://github.com/nuxt-ui-templates/portfolio
       color: "neutral"
   images:
-    - src: /hero/desafio.png
-      alt: Random Image 1
+    - src: /hero/desafio_total.png
+      alt: Proyecto 1 screenshot
     - src: /hero/algorithmics.png
-      alt: Random Image 2
+      alt: Proyecto 2 screenshot
     - src: /hero/kinotes.png
-      alt: Random Image 3
+      alt: Proyecto 3 screenshot
     - src: /hero/grp.png
-      alt: Random Image 5
+      alt: Proyecto 4 screenshot
+    - src: /hero/algorithmics_landing.png
+      alt: Proyecto 5 screenshot
 about:
   title: "Sobre mi"
   description: |
-    Como desarrollador frontend con 2 años de experiencia, me encargo de construir experiencias centradas en el usuario, tratando de que el producto final sea cómodo e intuitivo.
-    Mi enfoque mezcla conocimiento técnico con creatividad y diseño visual, llevando conceptos hacia colores y formas útiles y agradables de manipular que acaban convirtiéndose en software.
+    Egresando de la Universidad Virtual del Estado de Guanajuato y al mismo tiempo empezando mi vida laboral dando clases de programación, actualmente me dedico a desarrollar proyectos basados en web, que siempre ha sido mi ámbito favorito, trabajando como empleado de tiempo completo. 
 experience:
   title: Experiencia laboral
   items:
@@ -55,8 +56,8 @@ testimonials:
       #   src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
       #   srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
 blog:
-  title: "Últimos artículos"
-  description: "Algunas de mis entradas recientes."
+  title: ""
+  description: ""
 faq:
   title: Preguntas frecuentes
   description: Respuestas a preguntas frecuentes sobre mi trabajo.
@@ -65,7 +66,7 @@ faq:
       questions:
         - label: ¿Cuál es tu stack favorito de tecnologías?
           content: |
-            Mi stack de tecnologías favorito para trabajar es Nuxt+Laravel.
+            Mi stack de tecnologías favorito para trabajar es Nuxt+Laravel 
         - label: ¿Qué bases de datos manejas?
           content: |
             Mi favorita es PostgreSQL. He trabajado con Oracle, MySQL, MongoDB, Firebase Database, y Supabase.

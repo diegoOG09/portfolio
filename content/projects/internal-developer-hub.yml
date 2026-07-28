@@ -1,6 +1,6 @@
-title: Daimler Truck - Bootcamp de Diagnostico
-description: Sitio web informativo y funcional donde participantes del área de Capacitación Técnica y Comercial de Daimler Truck México pueden ver y canjear premios posteriores al bootcamp.
-image: https://diegosalinas.netlify.app/assets/screenshots/bootcamp.png # Example image related to code/development
-url: "#"
+title: Daimler Truck México - Centro de canjeos
+description: Construido para la compañia multinacional Daimler Truck, específicamente para el área de capacitación, sirve como centro de canjeo de premios para los participantes que reciben capacitación que completan cursos y retos. Genera reporte de participantes y premios canjeados.
+image: /hero/desafio_total.png # Example image related to code/development
+url: ""
 tags: ["Developer Tools", "UX Design", "Nuxt", "Design System", "Internal Tools"]
 date: "2025"
