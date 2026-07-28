@@ -1,8 +1,8 @@
 seo:
-  title: "Diego Salinas - Frontend Developer"
-  description: "Bienvenido a mi portafolio! Me llamo Diego Salinas, a and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hola, soy Diego Salinas, desarrollador Frontend"
-description: "Me gusta construir experiencias digitales intuitivas y visualmente atractivas. También me gusta tomar fotos y estoy empezando a escribir."
+  title: "Diego Salinas - Fullstack Developer"
+  description: "Bienvenido a mi portafolio!"
+title: "Hola soy Diego Salinas, desarrollador frontend y backend."
+description: "Me gusta construir experiencias digitales intuitivas y visualmente atractivas."
 hero:
   links:
     - label: "Use this template"
@@ -13,18 +13,10 @@ hero:
       alt: Random Image 1
     - src: /hero/algorithmics.png
       alt: Random Image 2
-    - src: /hero/lumen.png
+    - src: /hero/kinotes.png
       alt: Random Image 3
-    - src: /hero/aventuramx.png
-      alt: Random Image 4
     - src: /hero/grp.png
       alt: Random Image 5
-    - src: /hero/pxl2.jpg
-      alt: Random Image 6
-    - src: /hero/pxl3.jpg
-      alt: Random Image 7
-    - src: /hero/pxl4.jpg
-      alt: Random Image 8
 about:
   title: "Sobre mi"
   description: |
